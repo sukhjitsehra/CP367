@@ -22,7 +22,7 @@ int main()
 
 	while ( read(utmpfd, &current_record, reclen) == reclen )
 		show_info(&current_record);
-	close(utmpfd);
+		close(utmpfd);
 	return 0;			/* went ok */
 }
 /*

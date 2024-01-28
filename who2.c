@@ -2,11 +2,11 @@
  *         - suppresses empty records
  *         - formats time nicely
  */
-#include        <stdio.h>
-#include        <unistd.h>
-#include        <utmp.h>
-#include        <fcntl.h>
-#include        <time.h>
+#include<stdio.h>
+#include<unistd.h>
+#include<utmp.h>
+#include<fcntl.h>
+#include<time.h>
 
 /* #define      SHOWHOST */
 

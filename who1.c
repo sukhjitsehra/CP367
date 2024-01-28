@@ -1,10 +1,11 @@
 /* who1.c  - a first version of the who program
  *              open, read UTMP file, and show results
  */
-#include	<stdio.h>
-#include	<utmp.h>
-#include	<fcntl.h>
-#include	<unistd.h>
+#include<stdio.h>
+#include<utmp.h>
+#include<fcntl.h>
+#include<unistd.h>
+#include<stdlib.h>
 
 #define	SHOWHOST	/* include remote machine on output */
 

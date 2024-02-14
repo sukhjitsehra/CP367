@@ -1,0 +1,10 @@
+101,Laptop,Electronics,800@10
+102,Refrigerator,Appliance,900@5
+103,Smartphone,Electronics,700@20
+104,Printer,Office,300@8
+105,Soccer Ball,Sports,20@15
+201,Smartwatch,Electronics,250@10
+202,Blender,Kitchen Appliance,80@15
+203,Running Shoes,Sports,120@25
+204,Desk Lamp,Home Decor,30@20
+205,Portable Charger,Electronics,40@30
